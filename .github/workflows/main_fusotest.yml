@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'FUSOTEST'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6D21141A50B6414484CA692D7BFFFD28 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5EB4975770E74CC68AD11BBED748DD09 }}
